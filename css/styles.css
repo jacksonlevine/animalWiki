@@ -1,0 +1,27 @@
+.hidden {
+  display: none;
+}
+
+body {
+  text-align:center;
+  height:400px;
+  width:100%;
+}
+
+img {
+  width:200px;
+  height:200px;
+}
+
+.show {
+  width: 60%;
+  height: 400px;
+  background-color:goldenrod;
+  border:40px double red;
+  text-align:left;
+}
+
+.show img {
+  border: 20px dashed blueviolet;
+  float: left;
+}
